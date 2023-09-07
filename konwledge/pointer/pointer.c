@@ -20,7 +20,7 @@ void swap(int *p1, int *p2)
     *p1 = *p2;
     *p2 = temp;
 }
-
+//值传递不能改变变量的值
 void swap1(int x,int y)
 {
     int temp;
