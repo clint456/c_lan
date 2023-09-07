@@ -1,2 +1,3 @@
-*.cmake
-build/
+*.o
+*.out
+*.0

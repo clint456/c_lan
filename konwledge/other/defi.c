@@ -1,3 +1,4 @@
+
 /*宏定义define*/
 #include <stdio.h>
 
@@ -13,7 +14,7 @@ int main(int argc, char const *argv[])
     // (2+1)*(2+1) ==> 9
     printf("l(2+1): %d\n",l(3+1));
     // 2+1*2+1 ===> 5
-
+    
 
 
     return 0;
