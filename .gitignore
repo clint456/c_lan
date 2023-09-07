@@ -2,3 +2,4 @@
 *.out
 *.0
 *.exe   
+/build/*
