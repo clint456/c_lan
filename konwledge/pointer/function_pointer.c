@@ -9,7 +9,7 @@ int add(int x,int y)
 int main(int argc, char const *argv[])
 {
     /* code */
-    int (*f)();
+    int (*f)(int,int);
     f = add;
     //调用方式1
     add(2,3);

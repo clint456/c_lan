@@ -1,0 +1,17 @@
+//
+void ShellSort(int A[],int n){
+int d, i, j;
+/A=
+for(d= n/2; d>=1; d=d/2)
+
+for(i=d+1; i<=n;++i)
+ifA[il<A[i-dl){
+
+A[O]=A[il;
+A[0]
+for(j= i-d; j>0 && A[0]<A[j]; j-=d)
+A[j+d]=A[j];
+/
+A[j+d]=A[0];
+/
+//if
