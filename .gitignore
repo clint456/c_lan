@@ -3,3 +3,6 @@
 *.0
 *.exe   
 /build/*
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
+
